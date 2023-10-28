@@ -24,7 +24,7 @@ City=City_dummies[City_sel]
 Country_sel= st.selectbox('Country', ['Mexico',  'Switzerland', 'France'])
 Country=Country_dummies[Country_sel]
 
-st.write(year)
+
 
 data= year
 data=[]
@@ -34,7 +34,6 @@ data.extend(City)
 data.extend(Country)
 
 
-st.write(data)
 
 result = model.predict([data])
 
