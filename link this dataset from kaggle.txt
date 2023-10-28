@@ -1,0 +1,22 @@
+https://www.kaggle.com/datasets/franoisgeorgesjulien/hotels-reviews/code
+
+https://www.kaggle.com/code/franoisgeorgesjulien/reviews-nlp-powered-sentiment-analysis
+
+
+This dataset comprises a total of 3,705 authentic hotel reviews collected from various countries. I am sharing a glimpse of a work I completed scraping hundreds of hotels' reviews. The data was obtained through web scraping techniques using Selenium and BeautifulSoup. The quality of the dataset is excellent. The reviews have not been translated and are presented in their original languages. The dataset contains the following columns:
+
+Rating: This column represents the rating given by reviewers, typically on a scale of 1 to 10, indicating their satisfaction with their hotel experience.
+
+Date: The 'Date' column contains the publication date of the hotel review in a date format.
+
+Description: This column contains the textual content of the hotel review, where guests share their experiences, opinions, and feedback regarding their stay.
+
+Hotel_name: This column specifies the name of the hotel that the review is associated with. Each row corresponds to a unique hotel.
+
+City: The 'City' column denotes the city where the hotel is located, providing geographical context to the dataset.
+
+Country: The 'Country' column indicates the country where the hotel is situated, offering information about the origin of each hotel review.
+
+This dataset serves as a valuable resource for analyzing and understanding guest sentiments and feedback in the context of hotel stays across various countries. Researchers and analysts can utilize this data to perform sentiment analysis, trend analysis, and gain insights into the factors influencing hotel reviews and ratings. It can also be useful to generate synthetic data using real data.
+
+Data collected on the 22 September 2023.
