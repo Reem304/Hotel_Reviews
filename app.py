@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from models.dummies import *
 import joblib
-from sklearn.model_selection import train_test_split
+
 
 
 scaler = joblib.load('models/scaler.h5')
